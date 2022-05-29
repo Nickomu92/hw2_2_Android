@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miCreateDirectory"
+        android:title="@string/mi_create_dir" />
+
+    <item
+        android:id="@+id/miDelete"
+        android:title="@string/mi_delete" />
+
+    <item
+        android:id="@+id/miRename"
+        android:title="@string/mi_rename" />
+
+    <item
+        android:id="@+id/miCopy"
+        android:title="@string/mi_copy" />
+
+    <item
+        android:id="@+id/miPaste"
+        android:title="@string/mi_paste" />
+</menu>

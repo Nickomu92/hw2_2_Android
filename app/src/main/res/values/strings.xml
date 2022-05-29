@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ДЗ №2.2 Муліна Миколи</string>
+    <string name="mi_create_dir">Створити каталог</string>
+    <string name="mi_delete">Видалити</string>
+    <string name="mi_rename">Перейменувати</string>
+    <string name="mi_copy">Копіювати</string>
+    <string name="mi_paste">Вставити</string>
+
+</resources>
