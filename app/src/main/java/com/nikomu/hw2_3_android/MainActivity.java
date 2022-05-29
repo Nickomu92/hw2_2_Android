@@ -725,7 +725,7 @@ public class MainActivity extends AppCompatActivity {
                 if (checkFile.isFile() && file.getName().equals(resultName)) {
                     int index = checkFile.getName().lastIndexOf(".");
                     count++;
-                    resultName = checkFile.getName().substring(0, index) + "(" + count + ")" + getFileExtension(checkFile);
+                    resultName = checkFile.getName().substring(0, index) + "(" + count + ")." + getFileExtension(checkFile);
                 }
             }
 
